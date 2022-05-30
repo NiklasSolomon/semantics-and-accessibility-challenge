@@ -8,7 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
-/* Page Header containing page name and Nav bar */
+/* page header containing page name and nav bar */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -47,7 +47,7 @@ a {
     text-decoration: none;
 }
 
-/* Universal font size for paragraphs */
+/* universal font size for paragraphs */
 p {
     font-size: 16px;
 }
@@ -73,7 +73,7 @@ p {
     margin-left: 25px;
 }
 
-/* Properties of content */
+/* properties of content */
 .content {
     width: 75%;
     display: inline-block;
@@ -125,7 +125,7 @@ p {
     font-size: 36px;
 }
 
-/* Footer for copyright and business info */
+/* footer for copyright and business info */
 footer {
     padding: 30px;
     clear: both;
