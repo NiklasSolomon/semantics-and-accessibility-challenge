@@ -11,3 +11,7 @@ This will showcase knowledge learned from the bootcamp about accessibility stand
 
 ## Result: 
 The html document is now structured with header, section, aside, and footer elements that identify the specific parts of the page. The images are labeled with alt tags to describe what the image is. Code was spaced out for easier reading. The css document was altered to eliminate redundant elements. Comments were added to explain purpose of elements.
+
+![Screenshot of working webpage](./Assets/images/screenshot.png)
+
+[Link to live webpage](https://niklassolomon.github.io/semantics-and-accessibility-challenge/)
